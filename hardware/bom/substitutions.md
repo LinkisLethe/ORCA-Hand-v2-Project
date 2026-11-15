@@ -1,5 +1,7 @@
 # 官方 BOM 上的国产替换项
 
+实际采购入口已合并为 [飞特适配中文 BOM](feetech-v2-zh.md) 和 [Excel 清单](ORCA_v2_Feetech_BOM_中文.xlsx)。本页保留官方方案到国产方案的变更说明。
+
 基准始终是 [官方 v2 BOM](official-v2.md)。原始 CSV 保留共用、DX、FT 三组，采购国产方案时取共用件，并用下表处理 FT 电机、电控和供电项。不要同时购买 DX 与 FT 两套配件。
 
 | 官方项目 | 官方数量 | SCS225 路线 | STS3215 路线 |

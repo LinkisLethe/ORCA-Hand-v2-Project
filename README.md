@@ -7,14 +7,14 @@
 ## 从这里开始
 
 1. 阅读 [方案与进度](docs/project.md)，了解哪些已经确定、哪些仍待选择
-2. 查看 [官方 v2 BOM](hardware/bom/official-v2.md) 和 [国产替换项](hardware/bom/substitutions.md)
+2. 查看 [飞特适配中文 BOM](hardware/bom/feetech-v2-zh.md)，或下载 [Excel 采购表](hardware/bom/ORCA_v2_Feetech_BOM_中文.xlsx)；[官方 v2 原表](hardware/bom/official-v2.md)保留作基准
 3. 根据 [舵机选型](docs/servo-selection.md) 确定完整型号和电源
 4. 按 [打印与替换关系](hardware/3d_print/README.md) 准备模型
 5. 按 [装配顺序](docs/assembly.md)、[软件入口](docs/software.md) 推进
 
 ```text
 hardware/
-  bom/                  官方 v2 原始 CSV、可读物料表、国产替换项
+  bom/                  飞特中文采购表、Excel、官方 v2 原始 CSV
   3d_print/             官方模型与 N-B 替换件的取用说明
   official/             官方硬件 fork，固定版本的 Git 子模块
 software/
