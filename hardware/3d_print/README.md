@@ -1,5 +1,7 @@
 # 打印入口与替换关系
 
+学校打印机设置、PLA Basic 用量估算、分批打印及模具中的 TPU 材料见 [中文教程第 2–5 节](../../docs/tutorial.md#step-02)。下面保留文件入口与替换说明。
+
 ## 官方基础件
 
 运行 `python scripts/setup_sources.py --hardware` 后，官方右手基础版资料位于：

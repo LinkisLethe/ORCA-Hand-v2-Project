@@ -1,5 +1,7 @@
 # 装配路线
 
+详细操作请从 [ORCA Hand v2 飞特版中文复现教程](tutorial.md) 开始。本页作为阶段速查；教程包含材料购买、学校打印机、皮肤制作、穿绳和单舵机调试。
+
 主教程使用 [官方 v2 视频](https://www.youtube.com/watch?v=TgIz7HiyaoU)，同时查看 [官方补充说明](../hardware/official/orca_v2/base/ASSEMBLY_ADDENDUM.md)。视频展示 DX 电控，手指和手掌等共用机械步骤可参考；供电和通信按选定国产舵机配置。
 
 | 阶段 | 做什么 | 完成时留下什么 |

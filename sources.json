@@ -32,5 +32,17 @@
     "downloaded_on": "2026-11-15",
     "preserved_verbatim": true
   },
-  "architecture_reference": "https://github.com/George121380/ORCA_Hand_Feetech_Version"
+  "architecture_reference": "https://github.com/George121380/ORCA_Hand_Feetech_Version",
+  "tutorial": {
+    "source": "https://github.com/orcahand/orca_ui",
+    "commit": "028a1127cbb30eb92c339d43c02661d06c9a49bd",
+    "files": [
+      "frontend/src/components/assembly/guide.ts",
+      "frontend/src/components/assembly/baseGuideReview.ts",
+      "frontend/src/components/assembly/buildContent.ts"
+    ],
+    "guide_version": "v2.1; adapt to pinned v2 hardware",
+    "checked_on": "2026-11-15",
+    "local_document": "docs/tutorial.md"
+  }
 }
