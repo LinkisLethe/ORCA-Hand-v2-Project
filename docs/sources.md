@@ -1,4 +1,4 @@
-# 来源与版本
+# Reference
 
 上游提交和引用路径记录在 [sources.json](../sources.json)。源代码与模型使用 Git 子模块保留来源，未把不同版本文件混成一个无出处的目录。
 
