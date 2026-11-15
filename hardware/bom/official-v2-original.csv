@@ -1,0 +1,67 @@
+kind,component,qty,spares,used_in,link,image
+section,COMMON PARTS  ·  both variants,,,,,
+subhead,3D Printed Parts,,,,https://www.amazon.com/eSUN-Filament-Toughness-Upgraded-Dimensional/dp/B0D4TJ4JTC?crid=2IQQHVC3QRPJQ&dib=eyJ2IjoiMSJ9.v_I2u1Ysr1R9rCDRO6KMywamo0QvBaoPHa1Ida-JM5LExhjIUknMFIPyR_oxvKh-z-0IY7DH3MPihNcbRb9sxjH61uXED1BqtkYF7Z2yFSOXZO2FfDvHB7AGe68QEnCcyCv2HM6U2gP2wegMc3RBcgkFY0F1JwF_VVOZtSbzEB-hUrqOfG9ZONjN6GrxxIyMKlTfGJHgg-lHwJGz69QNh4N9EHKLSjtl89QTc-Q-tDRKlWYxveJixMpG7a4uQ4HBqkPdckAxzgD0dsa1FsZsnOCwsLMMEIf5WwU6LGOLhLA.qHkyb82gwIWhitS9OAdZrplQqu_A_Cu2F72U6xAgSBs&dib_tag=se&keywords=eSUN+Polylactic+Acid+%28PLA%29+Filament+1.75+mm%2C+Reinforced+Toughness+3D+Printer+Polylactic+Acid+%28PLA%29%2C&qid=1747928358&s=industrial&sprefix=esun+polylactic+acid+pla+filament+1.75+mm%2C+reinforced+toughness+3d+printer+polylactic+acid+pla+%2C+%2Cindustrial%2C366&sr=1-4,
+part,All plates (Left or Right),1,,,,
+subhead,Silicone Skin,,,,https://shop.smooth-on.com/dragon-skin-10-nv,
+part,Carpals Skin (Black),1,,Palm,,
+part,Middle Skin (White),3,,Fingers,,
+part,Thumb Skin (White),1,,Fingers,,
+part,Pinky Skin (White),1,,Fingers,,
+subhead,Power & Connectivity,,,,,
+part,USB-C Cable,1,,PC connection (orca_core),https://www.alibaba.com/product-detail/UGREEN-USB-C-to-USB-C_1601661516692.html?spm=a2700.galleryofferlist.normal_offer.d_title.27a413a0vHz9aJ&priceId=6854a491415b4e8abd9d57884c87f37b,/bom/img/row28_2m_USB_C_USB_C_Cable.png
+subhead,Mechanical Parts,,,,,
+part,Bearing 6×13×5,2,,Wrist,https://www.amazon.com/HiPicco-686-2RS-Bearings-Miniature-Pre-Lubricated/dp/B0CH2ZDCZY/ref=sr_1_7?crid=21F7BFGPK7WEV&dib=eyJ2IjoiMSJ9.t95GY8uC_3rg3e3_LOPlbxFmW5sLC3sNwGgf3c_rjelriyKUiL_M00HAV70LOFRKoJF617v01-grJzb1sAD30CLtcSD-fJ9hdgzc_xnklTbCyPHcBR2NlllcxQgAhRA46lfm4XE2u3_JDX-FLWnvN6HRfjPmDivn9S3uo42F9wB5Jpul6t7h8czCY4gybxzMHrmORt4U1o5XUF-CgXceiJ1N1H8m2qnXbVMFFRVBcCK6DupHbmjMkEQbmwd0uNFKONuUslRAi8cLMULf8PpxhAfoZkvgoG-G6o8F4srEd7s.-CQLePf_sn54r8JxTB9ag9fLqoReVXLOB3XcTPPzP4k&dib_tag=se&keywords=bearing%2B6x13x5&qid=1744569021&sprefix=bearring%2B6x13x5%2Caps%2C230&sr=8-7&th=1,/bom/img/row40_6x13x5_Bearing.png
+part,Bearing 4×8×3,55,4,"WristAdapter (7), TopSpool (16), Fingers (32)",https://www.amazon.com/4x8x3mm-Skateboard-Bearings-MR84ZZ-L-840ZZ/dp/B00ZHSRTYK/ref=sr_1_3?crid=L1O50B2AOZ1L&dib=eyJ2IjoiMSJ9.KTP4Lt1tnQZxcYYEzfwCDVPRRyOFbFo5WS8uaU4hBTEgxZXdCDv26OJjdEt2J91Ir5ILK5O9GIwNCI0K2LbsbjkadFp0zmN8FLYkjd-8p9ZMRq04d2PSYPEFs50JIP13pSY0s829NFDJ2ZRdErvmVpD830j7d9VsK7qfoHKbOCeman2-sbauK1zaI1jpozQKBmHtBwPqo7S5OfSA_MZNXzaL49uz1oALTPigMjbAeHo.NrvZa8e7jGnywx-6Erk23MMSyeqEfciJHCBpgfoizHI&dib_tag=se&keywords=bearing+4x8x3&qid=1744568905&sprefix=bearring+4x8x%2Caps%2C188&sr=8-3,/bom/img/row41_4x8x3_Bearing.png
+part,Magnets 3×5,16,,Hulls,,/bom/img/row68_3x5_Magnets.png
+part,"GT2 Belt, 142 mm, 6 mm wide",1,,Wrist,https://www.amazon.com/Syu-Belt-Printer-Synchronous-Durable-Materials/dp/B098Q1F8FH,/bom/img/row47_GT2_142_6mm_Belt.png
+part,Pin 4×10,1,,Wrist,https://www.mcmaster.com/catalog/131/3829/91595A152,/bom/img/row42_4x10_Pin.png
+part,Dowel Pin 2×10,2,,T-AP (2),https://www.aliexpress.com/item/32890158237.html,/bom/img/row75_2x10_Pin.png
+part,Dowel Pin 2×8,13,,"AP (8), PP (5)",https://www.aliexpress.com/item/32890158237.html,/bom/img/row76_2x8_Pin.png
+part,Dowel Pin 2×6,12,,PP (10),https://www.mcmaster.com/products/dowel-pins/dowel-pins-2~~/diameter~2-0000-mm/diameter~2-000-mm/diameter~2-mm/length~6-mm/,/bom/img/row74_2x6_Pin.png
+part,Dowel Pin M3×50,2,,Wrist,https://www.amazon.com/uxcell-Stainless-Support-Fasten-Elements/dp/B07MDFSJJ1,/bom/img/row49_M3_50_Pin.png
+part,"Micro PTFE tube, 4 mm dia, flexible, 2 cm",2,,Wrist,https://www.aliexpress.com/item/32730855848.html,/bom/img/row46_4mm_inner_D_PTFE_2cm_lik.png
+part,Washer M4,2,1,Wrist,https://www.amazon.com/Taiss-380PCS-Socket-Assortment-Washers/dp/B0CWXJ4G63?crid=38YES5E35SJTL&dib=eyJ2IjoiMSJ9.0pE1eFNfTHV4f0ALzVMstbjPaL96xOTWfYtT5JvV0pcDfp-uS27tCKvn-2xd2B6Ipq5gMF0Qz4aTbvXMnkP6w8AOmY2ukFQjWgnq3Jl3YSN-y2SHYuhJGWkXW7jBP_wsTjX7JHDamqUK6zm1nk742-2zRyF2JQb20q1lyq4EFzK6RU7xALV7Nl0UpG0POVzX0sR3WZOX92kxIIspC752mFd5lrbL5jbtT0-2Hv4z6koCpgcXOB09EmxmZp0ZXSKJYx6cmzdBUvABSz1sBoVKBuxI1S664wzKKqA3j72J5Aw.AXP2ZuvRuv8KQkNjEtuIHFRXpwhtbeJWi3ENL-3p2tk&dib_tag=se&keywords=M4%2Bset&qid=1747927938&s=industrial&sprefix=m4%2Bset%2Cindustrial%2C280&sr=1-4&th=1,/bom/img/row43_M4_Washer.png
+part,Quad Nut M4,2,1,Wrist,https://www.aliexpress.com/item/1472370642.html,/bom/img/row44_M4_Nut_Quad.png
+part,Hex Nut M4,3,,TopTower (3),https://www.amazon.com/Taiss-380PCS-Socket-Assortment-Washers/dp/B0CWXJ4G63?crid=38YES5E35SJTL&dib=eyJ2IjoiMSJ9.0pE1eFNfTHV4f0ALzVMstbjPaL96xOTWfYtT5JvV0pcDfp-uS27tCKvn-2xd2B6Ipq5gMF0Qz4aTbvXMnkP6w8AOmY2ukFQjWgnq3Jl3YSN-y2SHYuhJGWkXW7jBP_wsTjX7JHDamqUK6zm1nk742-2zRyF2JQb20q1lyq4EFzK6RU7xALV7Nl0UpG0POVzX0sR3WZOX92kxIIspC752mFd5lrbL5jbtT0-2Hv4z6koCpgcXOB09EmxmZp0ZXSKJYx6cmzdBUvABSz1sBoVKBuxI1S664wzKKqA3j72J5Aw.AXP2ZuvRuv8KQkNjEtuIHFRXpwhtbeJWi3ENL-3p2tk&dib_tag=se&keywords=M4%2Bset&qid=1747927938&s=industrial&sprefix=m4%2Bset%2Cindustrial%2C280&sr=1-4&th=1,/bom/img/row54_M4_Nut_Hex.png
+part,Nut M3,20,2,"Fans, Board, Tower connectors, SpoolHolders",https://www.aliexpress.com/item/1005008192667711.html,
+part,Nut M2,16,4,BottomSpools (16),https://www.amazon.com/dp/B0DDXZH9L2?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1,/bom/img/row65_M2_Nut.png
+part,Screw M4×20 DIN 912,2,,Wrist,https://www.amazon.com/Metric-M4X20-Socket-Screw-Stainless/dp/B00BNCELT0,/bom/img/row48_M4x20_DIN_912.png
+part,Screw M4×10 DIN 912,3,1,TopTower (3),https://www.amazon.com/Metric-M4X10-Socket-Screw-Stainless/dp/B00BNCRHFK,/bom/img/row55_M4x10_DIN_912.png
+part,Screw M4×10 DIN 912,3,1,Connecting Top & Bottom (3),https://www.amazon.com/Metric-M4X10-Socket-Screw-Stainless/dp/B00BNCRHFK,/bom/img/row55_M4x10_DIN_912.png
+part,Screw M3×14 DIN 912,6,2,Fan fixation (6),https://www.amazon.com/Metric-M3X14-Socket-Screw-Stainless/dp/B00BNCR2SM,/bom/img/row58_M3x14_DIN_912.png
+part,Screw M3×12 DIN 912,14,,"SpoolHolders (4), Cooling Fan (6), Franka (4)",https://www.amazon.com/Metric-M3X12-Socket-Screw-Stainless/dp/B00BNCR1PQ,/bom/img/row81_M3x12_DIN_912.png
+part,Screw M3×8 DIN 912,2,2,Connecting Top & Bottom,https://www.amazon.com/Metric-Socket-Screw-Stainless-Steel/dp/B00BNCRGJM,
+part,Screw M3×6 DIN 912,2,1,Board (2),https://www.amazon.com/Metric-Socket-Screw-Stainless-Steel/dp/B00BNCRFO8,
+part,Screw M2×8 DIN 912,20,2,"Spools (16), WristSpool (4)",https://www.amazon.com/Metric-Socket-Screw-Stainless-Steel/dp/B00BNCQMQA,
+part,Screw M2×4 DIN 912,64,6,Spools (64),https://www.amazon.com/dp/B0DDXZH9L2?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1,
+part,Robot arm connector plate (CNC),1,,Franka connector,/getting-started#mounting,/bom/img/row78_Robot_arm_connector_plat.png
+part,Screw M6×8 low-profile DIN 912,4,,Franka connector,https://www.amazon.com/M6-6mm-1-0-Socket-MonsterBolts/dp/B07BGFLBXV,/bom/img/row79_M6x8_low_profile_DIN_912.png
+part,Threaded rod M5×100,2,,Franka connector,https://www.amazon.com/uxcell-M5x100mm-Thread-Stainless-Socket/dp/B01M5DYLDG,/bom/img/row80_M5x100_Threaded_Rod.png
+part,"Fishing Line Tendon (UHMWPE, 0.39 mm, e.g. WFT 67 kg)",24 m,6 m,Fingers (tendons),https://www.angel-domaene.de/wft-new-67kg-strong-trans-1000m-geflochtene-schnur--28594.html,/bom/img/newimg_fishing-line-tendon-uhmwpe-0.png
+section,DYNAMIXEL (DX) VARIANT,,,,,
+subhead,"Motors, Boards & Fan",,,,,
+part,XC430-T240BB-T,1,,Wrist actuator,https://www.robotis.us/dynamixel-xc430-t240bb-t/,/bom/img/newimg_xc430-t240bb-t.png
+part,XC330-T288-T,16,,Finger actuator,https://www.robotis.us/dynamixel-xc330-t288-t/,/bom/img/newimg_xc330-t288-t.png
+part,Dynamixel PowerBoard,1,,,https://www.robotis.us/u2d2-power-hub-board-set/?srsltid=AfmBOopFtFC5-doocga1CsAddlNUE5dPpN_95E6bNEMtp0NREVx9f3Wu,
+part,U2D2,1,,USB communication converter,https://www.robotis.us/u2d2/,
+part,"Electronic Fan 50×50×10 (90 mm cable, pre-soldered)",2,,Tower,https://www.amazon.com/DAKKZA-Cooling-5010-Brushless-5000RPM/dp/B0CWDDSF62?crid=MVRMAEZ1LM2G&dib=eyJ2IjoiMSJ9.RehKnakKgMoCJrDpecK-FGj2He-kGuLjaiRiDGU_OnF6Mw0ZJMYrXLKSjqLglxypKlqTCE848qoeO9Zp8NzFcxKU3YxFN2wVSAv3TWUZtNKKxFYh90Q3Oau8HG4hRlfZkManzrrKmjwyNVIhfgfzAdTWNwE5I-_v9ch2w6ttnJUQJoWKPc-iIRvXVLDgA3oKilY5qTLvsCnWESEGimU9EWsIo2pjgL8DYWxZ2NvctkI.TFYnq5542MKH9SFvZkyPJbEWYtRjhm_JDLEcWqfHm4M&dib_tag=se&keywords=50+x+50+x+10+Fan+2+Pin&qid=1747925475&sprefix=50+x+50+x+10+fan+2+pin%2Caps%2C247&sr=8-3,
+part,Screw M2×8 DIN 912,4,,Wrist,https://www.amazon.com/Metric-Socket-Screw-Stainless-Steel/dp/B00BNCQMQA,
+part,12V 5A AC Adapter,1,,Power of the orcahand,https://www.robotis.us/smps-12v-5a-ps-10-us-110v/,/bom/img/row29_12V_5A_AC_Adapter.png
+subhead,Motor Connector PCBs,,,Finger servo daisy chaining,https://drive.google.com/file/d/1ywkq5EHmUxqx772cijNxnCf4mmtUWZjm/view?usp=sharing,/bom/img/row26_Motor_Connector_PCB.jpg
+subhead,"Cables JST EH 2.5 mm, 3-pin female (EHR-3)",,,,,
+part,3XP Cable 180 mm (custom),1,2,Circuit Board → Servo,https://www.alibaba.com/search/page?spm=a2700.product_home_fy25.home_login_first_screen_fy23_pc_search_bar.searchButton&SearchScene=proSearch&SearchText=JST+EH+2.5+mm%2C+3-pin+female+(EHR-3)&pro=true&from=pcHomeContent,
+part,3XP Cable 100 mm,4,2,Servo daisy chaining,https://en.robotis.com/shop_en/item.php?it_id=903-0075-000,
+section,FEETECH (FT) VARIANT,,,,,
+subhead,"Motors, Boards & Fan",,,,,
+part,HL-3930-Plastic,1,,Wrist motor (plastic casing),https://www.aliexpress.com/item/1005007654030232.html,/bom/img/newimg_hl-3930-plastic.png
+part,HL-2915-Plastic,16,,Finger motor (plastic casing),,/bom/img/newimg_hl-2915-plastic.png
+part,Feetech FE-URT-2 (USB-C),1,,Control board,https://www.amazon.com/dp/B0FGNHNPMK,/bom/img/row07_FE_URT_2.png
+part,"Electronic Fan 50×50×10 (70 mm cable, cables soldered together)",2,,Tower,https://www.amazon.com/DAKKZA-Cooling-5010-Brushless-5000RPM/dp/B0CWDDSF62?crid=MVRMAEZ1LM2G&dib=eyJ2IjoiMSJ9.RehKnakKgMoCJrDpecK-FGj2He-kGuLjaiRiDGU_OnF6Mw0ZJMYrXLKSjqLglxypKlqTCE848qoeO9Zp8NzFcxKU3YxFN2wVSAv3TWUZtNKKxFYh90Q3Oau8HG4hRlfZkManzrrKmjwyNVIhfgfzAdTWNwE5I-_v9ch2w6ttnJUQJoWKPc-iIRvXVLDgA3oKilY5qTLvsCnWESEGimU9EWsIo2pjgL8DYWxZ2NvctkI.TFYnq5542MKH9SFvZkyPJbEWYtRjhm_JDLEcWqfHm4M&dib_tag=se&keywords=50+x+50+x+10+Fan+2+Pin&qid=1747925475&sprefix=50+x+50+x+10+fan+2+pin%2Caps%2C247&sr=8-3,
+part,Screw M3×6 DIN 912,1,,Wrist,https://www.amazon.com/Metric-Socket-Screw-Stainless-Steel/dp/B00BNCRFO8,
+part,Screw M3×8 DIN 912,4,,Wrist,https://www.amazon.com/Metric-Socket-Screw-Stainless-Steel/dp/B00BNCRGJM,
+part,12V 5A AC Adapter,1,,Power of the orcahand,https://www.robotis.us/smps-12v-5a-ps-10-us-110v/,/bom/img/row29_12V_5A_AC_Adapter.png
+subhead,"Cables, 3-pin female, AWG 28 — board side = Molex Mini-SPOX 5264, 2.5 mm (UART) · motor side = JST PH, 1.25 mm",,,,https://www.alibaba.com/search/page?spm=a2700.product_home_fy25.home_login_first_screen_fy23_pc_search_bar.keydown__Enter&SearchScene=proSearch&SearchText=JST+PH+1.25+mm%2C+3-pin+female%3B+wire+AWG+28&pro=true&from=pcHomeContent,
+part,3XP Cable 160 mm (2.5 → 1.25 mm),2,2,Circuit Board → Servo,comes with the servos,/bom/img/row13_160mm_Big_to_Small_.png
+part,3XP Cable 100 mm (1.25 → 1.25 mm),3,2,Finger servo daisy chaining,custom (procure e.g. via alibaba),
+part,3XP Cable 100 mm (2.5 → 1.25 mm),1,2,Finger → Wrist servo,custom (procure e.g. via alibaba),
+part,3XP Cable 50 mm (1.25 → 1.25 mm),12,4,Finger servo daisy chaining,custom (procure e.g. via alibaba),

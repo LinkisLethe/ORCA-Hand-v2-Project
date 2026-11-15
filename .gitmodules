@@ -1,0 +1,10 @@
+[submodule "software/orca_core"]
+	path = software/orca_core
+	url = https://github.com/LinkisLethe/orca-core-nb.git
+[submodule "software/orca_core_official"]
+	path = software/orca_core_official
+	url = https://github.com/LinkisLethe/orca-core-nb.git
+	branch = official-main
+[submodule "hardware/official"]
+	path = hardware/official
+	url = https://github.com/LinkisLethe/orcahand-hardware.git

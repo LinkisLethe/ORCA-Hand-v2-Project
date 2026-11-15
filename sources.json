@@ -1,0 +1,36 @@
+{
+  "recorded_on": "2026-11-15",
+  "repositories": [
+    {
+      "kind": "hardware",
+      "path": "hardware/official",
+      "upstream": "https://github.com/orcahand/orcahand_hardware",
+      "fork": "https://github.com/LinkisLethe/orcahand-hardware.git",
+      "branch": "main",
+      "commit": "0ce26465a4f67c8ab3391cf157853ac24b1fb9c1"
+    },
+    {
+      "kind": "software",
+      "path": "software/orca_core",
+      "upstream": "https://github.com/N-B-Studio/orca_core",
+      "fork": "https://github.com/LinkisLethe/orca-core-nb.git",
+      "branch": "main",
+      "commit": "9224bd81343ddab9a076b16fae3e885739994ec5"
+    },
+    {
+      "kind": "software",
+      "path": "software/orca_core_official",
+      "upstream": "https://github.com/orcahand/orca_core",
+      "fork": "https://github.com/LinkisLethe/orca-core-nb.git",
+      "branch": "official-main",
+      "commit": "48a38564f3261da30cb0bb2e1639e5c71f6c17bb"
+    }
+  ],
+  "bom": {
+    "source": "https://www.orcahand.com/bom/bom-1000.csv",
+    "path": "hardware/bom/official-v2-original.csv",
+    "downloaded_on": "2026-11-15",
+    "preserved_verbatim": true
+  },
+  "architecture_reference": "https://github.com/George121380/ORCA_Hand_Feetech_Version"
+}

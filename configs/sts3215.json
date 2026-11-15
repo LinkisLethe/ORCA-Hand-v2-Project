@@ -1,0 +1,15 @@
+{
+  "purpose": "选型记录，不是直接执行的控制配置",
+  "model": "orca-v2-right-base",
+  "servo_candidate": "STS3215",
+  "quantity": 17,
+  "purchased": false,
+  "exact_sku": null,
+  "rated_voltage_v": null,
+  "gear_ratio": null,
+  "controller_adapter": null,
+  "bus_count": null,
+  "hardware_verified": false,
+  "driver_integrated": false,
+  "notes": "保留 7.4 V/12 V 等具体版本选择；按最终规格填写。机械接口一致时复用 N-B 适配件，不自动认定驱动兼容"
+}

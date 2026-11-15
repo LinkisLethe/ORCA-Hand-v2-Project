@@ -1,0 +1,4 @@
+*.md text eol=lf
+*.py text eol=lf
+*.json text eol=lf
+hardware/bom/official-v2-original.csv -text -diff
