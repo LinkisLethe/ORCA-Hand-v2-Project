@@ -4,7 +4,7 @@
 
 ## 已确定
 
-- 采用 ORCA Hand v2、右手、基础版、17 个自由度
+- 采用 ORCA Hand v2 的 V1000 修订、右手、基础版、17 个自由度
 - 使用国产舵机，预算优先
 - 官方 v2 BOM 作为物料基准，国产电机、电源、线束变化另列，不改写官方原表
 - 按 N-B 作者说明替换其分享的模型，其余使用官方 v2
@@ -13,7 +13,7 @@
 
 ## 本次完成的工作
 
-已整理 [飞特 BOM](../hardware/bom/feetech-v2-zh.md)、[打印清单](../hardware/3d_print/README.md) 和 [中文教程](tutorial.md)。学校可用拓竹 A1、P2S、H2D、P1S；硬质件采用 1.75 mm PLA Basic，优先使用 P2S。皮肤采用自消泡的标称食品级 0 度硅胶。当前处于采购准备阶段，尚未进行实物装配与测试。
+已整理 [飞特 BOM](../hardware/bom/feetech-v2-zh.md)、[打印清单](../hardware/3d_print/README.md) 和 [中文教程](tutorial.md)。学校可用拓竹 A1、P2S、H2D、P1S；硬质件采用 1.75 mm PLA Basic，工程采用 P1S / 0.4 mm 预设。皮肤采用自消泡的标称食品级 0 度硅胶。当前处于采购准备阶段，尚未进行实物装配与测试。
 
 ## 接下来做什么
 

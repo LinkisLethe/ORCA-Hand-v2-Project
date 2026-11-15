@@ -6,8 +6,8 @@
       "path": "hardware/official",
       "upstream": "https://github.com/orcahand/orcahand_hardware",
       "fork": "https://github.com/LinkisLethe/orcahand-hardware.git",
-      "branch": "main",
-      "commit": "0ce26465a4f67c8ab3391cf157853ac24b1fb9c1"
+      "branch": "v1000",
+      "commit": "a5743dc54612371127ba8503d928ba3a6436c2d8"
     },
     {
       "kind": "software",
@@ -41,7 +41,7 @@
       "frontend/src/components/assembly/baseGuideReview.ts",
       "frontend/src/components/assembly/buildContent.ts"
     ],
-    "guide_version": "v2.1; adapt to pinned v2 hardware",
+    "guide_version": "V1000 mechanical baseline; later guide retained as reference",
     "checked_on": "2026-11-15",
     "local_document": "docs/tutorial.md"
   }
