@@ -146,7 +146,7 @@ cd ORCA-Hand-v2-Project
 python scripts/setup_sources.py --hardware
 ```
 
-运行后的本地打印目录是 `hardware/official/orca_v2/base/`；N-B 模型在 `software/orca_core/SCS-225/3D-model/`。
+这个完整资料脚本会同时获取 N-B 和官方对照代码。只需要打印文件时，直接使用上面的下载链接即可。运行后的本地打印目录是 `hardware/official/orca_v2/base/`；N-B 模型在 `software/orca_core/SCS-225/3D-model/`。
 
 ### 4.2 分清哪些打印、哪些替换
 
@@ -350,6 +350,14 @@ N-B 作者说明“分享的模型替换，剩下的不变，用 v2”，但没�
 
 <a id="step-11"></a>
 ## 11. 单舵机接线、检查和编号
+
+连接关系如下，实际插头针序按转换板和舵机说明核对：
+
+```text
+电脑 USB → TTL 串口适配器 → 舵机 DATA
+匹配电压的外部电源 → 舵机 VCC / GND
+适配器 GND 与舵机电源 GND 相连
+```
 
 ### 11.1 先检查一只，再批量设置
 

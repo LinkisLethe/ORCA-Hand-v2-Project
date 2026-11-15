@@ -26,7 +26,7 @@
 在项目根目录运行：
 
 ```bash
-python scripts/setup_sources.py
+git submodule update --init --depth 1 -- software/orca_core
 python -m venv .venv
 ```
 

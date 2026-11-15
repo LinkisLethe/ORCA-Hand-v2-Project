@@ -4,15 +4,15 @@
 
 仓库集中提供物料表、打印入口、装配说明、固定版本的上游源码，以及课程演示计划。目录组织参考 George121380 的项目，机械结构与物料仍使用 v2。
 
-**第一次参与装配的成员先读 [中文复现教程](docs/tutorial.md)**：包含学校打印机确认、PLA Basic 与局部软模 TPU、0 度硅胶试制、五指装配、穿绳、编号和调试。仓库公开，队友可以直接阅读和下载。
-
 ## 从这里开始
 
-1. 阅读 [方案与进度](docs/project.md)，了解哪些已经确定、哪些仍待选择
-2. 查看 [飞特适配中文 BOM](hardware/bom/feetech-v2-zh.md)，或下载 [Excel 采购表](hardware/bom/ORCA_v2_Feetech_BOM_中文.xlsx)；[官方 v2 原表](hardware/bom/official-v2.md)保留作基准
-3. 根据 [舵机选型](docs/servo-selection.md) 确定完整型号和电源
-4. 按 [打印与替换关系](hardware/3d_print/README.md) 准备模型
-5. 按 [详细中文教程](docs/tutorial.md)、[软件入口](docs/software.md) 推进
+| 要做什么 | 入口 |
+|---|---|
+| 从准备材料到装配调试 | [详细中文教程](docs/tutorial.md)，含学校打印机、硅胶制作和模型下载链接 |
+| 采购配件 | [中文 BOM](hardware/bom/feetech-v2-zh.md) / [Excel 清单](hardware/bom/ORCA_v2_Feetech_BOM_中文.xlsx) |
+| 决定舵机和电源 | [选型说明与采购记录](docs/servo-selection.md) |
+
+进度与课程要求见 [项目说明](docs/project.md)，控制程序的现状见 [软件说明](docs/software.md)。仓库公开，队友可以直接阅读和下载。
 
 ```text
 hardware/
@@ -22,8 +22,7 @@ hardware/
 software/
   orca_core/            N-B fork，保留作者源码和适配模型
   orca_core_official/   同一 fork 的官方代码分支，用于参考与比较
-configs/                SCS225、STS3215 方案记录；不是可直接上机的标定配置
-  docs/                   中文教程、选型、接线、软件、演示与来源说明
+docs/                   中文教程、选型记录、软件、演示与来源说明
 scripts/                拉取源码、生成 BOM 阅读表、检查目录
 experiments/            实物记录模板
 local/                  本机串口、标定文件，Git 忽略
@@ -32,16 +31,21 @@ runs/                   本机实验输出，Git 忽略
 
 ## 获取源码
 
-需要 Git 和 Python 3.10+。在新电脑上执行：
+只阅读教程或下载打印文件，不需要先安装代码。准备开发控制程序时，用 Git 获取 N-B 源码：
 
 ```bash
 git clone https://github.com/LinkisLethe/ORCA-Hand-v2-Project.git
 cd ORCA-Hand-v2-Project
-python scripts/setup_sources.py
-python scripts/check_project.py
+git submodule update --init --depth 1 -- software/orca_core
 ```
 
-默认只获取两套控制源码。需要打印模型时再运行：
+需要官方控制代码作对照时，再单独获取：
+
+```bash
+git submodule update --init --depth 1 -- software/orca_core_official
+```
+
+需要本地完整资料（两套控制源码及基础版模型）时，使用现有脚本，需要 Python 3.10+：
 
 ```bash
 python scripts/setup_sources.py --hardware
